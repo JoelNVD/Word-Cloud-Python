@@ -1,0 +1,138 @@
+DISCURSO DE GRADUACIÓN EN LA UNIVERSIDAD DE STANFORD
+Steve Jobs, junio 2005.
+“Me siento honrado de estar con vosotros hoy en esta ceremonia de graduación en una de las mejores 
+universidades del mundo. Yo nunca llegué a licenciarme. De hecho, esto es lo más cerca que he estado 
+nunca de una graduación universitaria.
+Hoy quiero contaros tres historias de mi vida. No es gran cosa. Solo tres historias. 
+La primera historia es sobre conectar puntos. Me retiré del Reed College a los seis meses de iniciar los 
+estudios, pero seguí asistiendo de modo intermitente a clases durante otros dieciocho meses más antes 
+de abandonar. ¿Por qué lo dejé? Todo empezó antes de nacer. Mi madre biológica era una joven 
+estudiante de universidad, soltera, que decidió darme en adopción. Ella creía firmemente que debía ser 
+adoptado por estudiantes graduados. Por lo tanto, todo estaba dispuesto para que al nacer me adoptaran 
+un abogado y su esposa. Sin embargo, cuando nací se dieron cuenta en el último minuto de que en 
+realidad deseaban una niña. De ese modo mis padres, que estaban en lista de espera, recibieron una 
+llamada en mitad de la noche preguntándoles: “Tenemos un niño no deseado; ¿lo quieren?”. Ellos 
+contestaron: “Por supuesto”. Cuando mi madre biológica descubrió que mi madre nunca se había 
+graduado en la universidad y que mi padre tampoco tenía estudios, se negó a firmar los papeles 
+definitivos de la adopción. Solo cambió de parecer unos meses más tarde cuando mis padres le 
+prometieron que, llegado el momento, yo iría a la universidad. 
+Y a los 17 años fui a la universidad. Ingenuamente escogí una casi tan cara como Stanford y todos los 
+ahorros de mis padres, de clase trabajadora, se fueron en abonar la matrícula. Seis meses después, yo 
+no había sido capaz de apreciar el valor de su esfuerzo. No tenía idea de lo que quería hacer con mi vida 
+y tampoco sabía si la universidad me ayudaría a descubrirlo. Y ahí estaba yo gastándome todo el dinero 
+que mis padres habían ahorrado a lo largo de toda su vida. Decidí dejarlo y confiar en que todo iba a salir
+bien. Ese momento fue aterrador, pero mirando hacia atrás fue una de las mejores decisiones que he 
+tomado nunca. Al dejar los estudios, pude prescindir de las clases obligatorias que no me interesaban y
+empecé a frecuentar con asiduidad las que sí consideraba interesantes.
+No todo fue tan romántico como parece. No tenía dormitorio, dormía en el suelo de las habitaciones de 
+amigos, devolvía botellas de Coca Cola a los depósitos para contar con los cinco centavos para comprar 
+comida y todos los domingos por la noche caminaba once kilómetros para atravesar la ciudad y disfrutar 
+de una comida decente a la semana en el templo Hare Krishna. Me gustaba. Y gran parte de lo que 
+encontré siguiendo mi curiosidad y mi intuición, más tarde resultó tener un valor incalculable. Os pongo 
+un ejemplo: en esa época Reed College ofrecía la que posiblemente era la mejor formación en caligrafía 
+de todo el país. Cada cartel, cada etiqueta de cualquier cajón de la universidad estaban bellamente 
+escritos en caligrafía a mano. Como había abandonado el curso y no tenía que asistir a las clases 
+normales, decidí tomar una clase de caligrafía. Aprendí sobre tipografías con serif y sin serif, sobre las 
+variaciones en la cantidad de espacio entre las distintas combinaciones de letras, sobre lo que hace grande a la tipografía. Era hermoso, histórico y de una sutileza artística que la ciencia no es capaz de 
+capturar, y lo encontré fascinante.
+A priori, nada de esto tenía una aplicación práctica en mi vida. Pero diez años más tarde, cuando 
+estábamos diseñando el primer ordenador Macintosh, todo esto encontró su sentido. Y lo diseñamos 
+dentro del Mac. Fue el primer ordenador con una bella tipografía. Si no hubiera asistido a ese curso en 
+la universidad, el Mac nunca habría tenido las tipografías múltiples o unas fuentes proporcionalmente 
+espaciadas. Y como Windows copió a Mac, es probable que no las tuviera ningún ordenador personal. 
+Si no hubiera dejado los estudios, nunca habría asistido a esa clase de caligrafía y posiblemente los 
+ordenadores personales no tendrían las maravillosas tipografías que tienen en la actualidad. 
+Evidentemente era imposible conectar los puntos mirando hacia el futuro cuando estaba en la 
+universidad. Sin embargo, fue muy obvio cuando miraba al pasado diez años más tarde.
+Insisto, no podéis conectar los puntos mirando hacia el futuro, solo podéis conectarlos mirando hacia el 
+pasado. Por ello tenéis que confiar en que los puntos, de alguna manera, se conectarán en vuestro futuro. 
+Tenéis que confiar en algo: el destino, el karma, vuestro instinto, lo que sea. Nunca he abandonado esta 
+perspectiva y es la que ha marcado la diferencia en mi vida.
+La segunda historia es sobre el amor y la pérdida. Fui afortunado porque en mi vida descubrí lo que 
+quería hacer. Woz [Steve Wozniak] y yo creamos Apple en el garaje de mis padres cuando tenía 20 años. 
+Trabajamos duro y en diez años pasamos de estar solo nosotros dos en un garaje a tener 4.000 
+empleados y una compañía valorada en 2.000 millones de dólares. Acabábamos de presentar nuestra 
+más importante creación, el Macintosh, un año antes y yo acababa de cumplir 30 años.
+Y entonces me despidieron. ¿Cómo te pueden despedir de tu propia empresa? Bien, debido al 
+crecimiento de Apple contratamos a una persona en cuyo talento confiamos para dirigir la compañía 
+conmigo. Al principio las cosas fueron bien, pero entonces nuestras visiones del futuro empezaron a 
+divergir y finalmente tuvimos un encontronazo. Cuando esto ocurrió, el Consejo lo respaldó a él. De ese 
+modo, a los 30 años estaba fuera. Y muy notoriamente fuera. Había desaparecido aquello que había 
+ocupado el centro de toda mi vida adulta. Fue devastador. 
+Durante unos meses realmente no supe qué hacer. Tenía la sensación de haber decepcionado a la 
+generación anterior de empresarios, de haber dejado caer el testigo cuando me lo estaban pasando. Me 
+reuní con David Packard y Bob Noyce e intenté disculparme por haberlo echado todo a perder. Fue un 
+fracaso público e incluso pensé en alejarme del Valle [de “Silicon Valley”, California]. No obstante, 
+lentamente empecé a darme cuenta de algo: todavía amaba lo que hacía. El revés ocurrido con Apple 
+no había cambiado en absoluto esa sensación. Había sido rechazado, pero seguía enamorado. Y decidí 
+empezar de nuevo.
+Entonces no fui capaz de verlo, pero ser despedido de Apple fue lo mejor que podría haberme pasado. 
+La pesadez de tener éxito fue reemplazada por la ligereza de ser un novato de nuevo. Esto me liberó y 
+entré en una de las etapas más creativas de mi vida. Durante los siguientes cinco años, fundé una 
+empresa llamada NeXT, otra empresa llamada Pixar y me enamoré de una mujer asombrosa que se
+acabó convirtiendo en mi esposa. Pixar siguió adelante y creó la primera película animada por ordenador
+del mundo, Toy Story, y en la actualidad es el estudio de animación de mayor éxito del mundo. En un giro sorprendente de los acontecimientos, Apple compró NeXT. Yo, por lo tanto, regresé a Apple y la 
+tecnología que desarrollamos en NeXT constituye el corazón del actual renacimiento de Apple. Y Laurene 
+y yo hemos formado juntos una maravillosa familia. 
+Estoy bastante seguro de que nada de esto habría sucedido si no me hubiesen despedido de Apple. Fue 
+una medicina amarga, pero supongo que el paciente la necesitaba. En ocasiones la vida te golpea en la 
+cabeza con un ladrillo. No perdáis la fe. Estoy convencido de que lo único que me permitió avanzar fue 
+que yo amaba lo que hacía. Tenéis que encontrar lo que amáis. Y eso es tan válido para el trabajo como 
+para la vida sentimental. El trabajo llenará gran parte de vuestras vidas y la única manera de sentiros 
+realmente satisfechos será haciendo lo que creéis que es un gran trabajo. Y la única forma de hacer un 
+gran trabajo es amando lo que se hace. Si aún no lo habéis encontrado, seguid buscando. No os rindáis. 
+Como con los asuntos del corazón, sabréis cuándo lo habéis encontrado. Y, al igual que las grandes 
+relaciones, mejora con el paso de los años. Así que seguid buscando. Y no os rindáis.
+Mi tercera historia es sobre la muerte. 
+Cuando tenía 17 años leí una cita que decía así: “Si vives cada día como si fuera el último, es muy 
+probable que algún día hagas lo correcto”. Me impresionó, y desde entonces, durante los últimos 33 
+años, me miro cada mañana en el espejo y me pregunto: “Si hoy fuera el último día de mi vida, ¿querría 
+hacer lo que estoy a punto de hacer?”. Y siempre que la respuesta ha sido “no” durante varios días 
+seguidos, he sabido que tenía que cambiar algo.
+Recordar mi mortalidad constituye la herramienta más importante que he encontrado para tomar las 
+grandes decisiones en mi vida. Porque casi todo —las expectativas externas, el orgullo, el temor a la 
+vergüenza o al fracaso, etc.— desaparece a las puertas de la muerte, dejando solo aquello que es 
+realmente importante. Recordar que vas a morir es la mejor manera que conozco para evitar la trampa 
+de pensar que tienes algo que perder. Ya estás desnudo. No hay ninguna razón para no seguir lo que 
+dicta tu corazón.
+Hace aproximadamente un año me diagnosticaron un cáncer. Me sometieron a un escáner a las 7:30 de 
+la mañana que claramente mostraba un tumor en el páncreas. ¡Ni sabía lo que era el páncreas! Los 
+médicos me dijeron que era muy probable que fuera un tipo de cáncer incurable y que mi expectativa de 
+vida no iría más allá de tres a seis meses. Mi médico me aconsejó irme a casa y poner en orden mis 
+asuntos, lo que en clave médica significaba prepararme para morir. Significa intentar decir a tus hijos 
+todo lo que pensabas decirles en los próximos diez años, pero comprimido en unos pocos meses. 
+Significa asegurarte de que todo esté suficientemente bien atado para que el trance sea lo más sencillo 
+posible para tu familia. Significa despedirte.
+Viví todo el día con ese diagnóstico. Por la tarde me hicieron una biopsia en la que introdujeron un 
+endoscopio por mi garganta, a través del estómago y en los intestinos, pincharon el páncreas con una 
+aguja y extrajeron unas pocas células del tumor. Estaba anestesiado, pero mi esposa, que estaba 
+presente, me contó que cuando examinaron las células bajo el microscopio, los médicos empezaron a 
+llorar porque resultó que era una forma muy rara de cáncer pancreático que es curable con cirugía. Me 
+operaron y ahora estoy bien. Es lo más cerca que he estado de la muerte y espero que sea lo más cerca
+que esté durante algunas décadas más.
+Después de vivir esta experiencia, ahora puedo deciros esto con un poco más de certeza que cuando la 
+muerte era un concepto útil pero puramente intelectual: nadie quiere morir. Incluso la gente que quiere ir 
+al cielo no quiere morir para llegar allí. La muerte es el destino que todos compartimos. Nadie ha 
+escapado de ella. Y así debe ser porque la muerte es posiblemente la mejor invención de la vida. Es el 
+agente de cambio. Elimina lo viejo para dejar paso a lo nuevo. Ahora mismo lo nuevo sois vosotros, pero 
+algún día, no muy lejano, seréis los viejos. Y seréis eliminados. Lamento ser tan trágico, pero es la 
+verdad. Vuestro tiempo es limitado, así que no lo perdáis viviendo la vida de otra persona. No os dejéis 
+atrapar por dogmas, no viváis con los resultados del pensamiento de otras personas. No permitáis que 
+el ruido de las opiniones ajenas silencie vuestra voz interior. Y lo más importante, tened el valor de seguir 
+a vuestro corazón y a vuestra intuición, porque de alguna manera ya saben lo que realmente queréis 
+llegar a ser. Todo lo demás es secundario.
+Cuando era joven, había una asombrosa publicación llamada The Whole Earth Catalog, una de las biblias 
+de mi generación. Fue creada por un tipo llamado Steward Brand no muy lejos de aquí, en Menlo Park, 
+y le dio vida con su toque poético. Fue a finales de los años 60, antes de los ordenadores personales y 
+de la edición mediante microcomputadoras. Se editaba usando máquinas de escribir, tijeras y cámaras 
+Polaroid. Era como un Google con tapas de cartulina, 35 años antes de que apareciera Google. Era 
+idealista y rebosante de hermosas herramientas y grandes conceptos. 
+Steward y su equipo publicaron varias ediciones de The Whole Earth Catalog y luego, cuando llegó el 
+momento, publicaron la última edición. Fue a mediados de los años 70 y yo tenía vuestra edad. En la 
+contraportada de ese último número, había una fotografía de una carretera rural a primera hora de la 
+mañana, similar a aquella en la que los más aventureros de vosotros podríais hacer autostop. El pie de 
+foto decía: “Seguid hambrientos. Seguid alocados”. Fue su mensaje de despedida. Y yo siempre he 
+deseado lo mismo para mí. Y ahora, cuando os estáis graduando para empezar de nuevo, es lo que os 
+deseo a vosotros. 
+Seguid hambrientos. Seguid alocados.
+Gracias”.
